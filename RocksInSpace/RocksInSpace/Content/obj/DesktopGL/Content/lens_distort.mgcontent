@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>F:/University Work/AGP/RocksInSpace/RocksInSpace/Content/lens_distort.fx</SourceFile>
+  <SourceTime>2022-11-01T07:41:07.4029858+00:00</SourceTime>
+  <DestFile>F:/University Work/AGP/RocksInSpace/RocksInSpace/Content/bin/DesktopGL/Content/lens_distort.xnb</DestFile>
+  <DestTime>2022-11-01T07:43:12.0681391+00:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2018-12-08T16:35:54+00:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T16:35:54+00:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
